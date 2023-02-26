@@ -2,3 +2,7 @@
 ### Authors: Kirill Zakharov, Elizaveta Stavinova
 
 Official realisation by our article (link will be later).
+
+## Method
+
+## Experiments
