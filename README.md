@@ -16,14 +16,11 @@ pip install statsmodels
 pip install fbprophet
 ```
 
-
 ## Method
-General pipeline of our method is presented below. For a detail description see the article.
+General pipeline of our method is presented below. The main idea is to use the clustering approach on allocated regimes. For a detail description see the article.
 ![Pipeline](https://github.com/kirillzx/CLSGAN/blob/main/images/pipeline_V3-1.png)
 
 We also proposed the modification of existing GAN architectures, adding Supervisor and second Discriminator.
-![CLSGAN](https://github.com/kirillzx/CLSGAN/blob/main/images/CLS-GAN_Pipeline-1.png)
-
 <p align="center">
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/CLS-GAN_Pipeline-1.png"  width="60%" height="30%">
 </p>
@@ -49,4 +46,7 @@ For the quality assessment we have used distribution statistics (skewness, kurto
 </p>
 
 ## Hyperparameters
-![Hypers](https://github.com/kirillzx/CLSGAN/blob/main/images/hypers.png) 
+For training procedure you can use following hyperparameters.
+<p align="center">
+<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/hypers.png"  width="60%" height="30%">
+</p>
