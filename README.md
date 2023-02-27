@@ -2,6 +2,7 @@
 ### Authors: Kirill Zakharov, Elizaveta Stavinova
 Official realisation by our article (link will be later).
 
+For questions and recommendations write kirill.zakharov00@mail.ru
 ## Installation
 To use the method, you must install following Python libraries:
 ```
