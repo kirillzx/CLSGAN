@@ -34,6 +34,7 @@ For the experiments we have used three open access datasets which describes stoc
 ## Hyperparameters
 
 $$
+\usepackage{booktabs}
 \vspace{-5mm}
 \begingroup
 \setlength{\tabcolsep}{4 pt}
