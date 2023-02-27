@@ -4,7 +4,7 @@
 Official realisation by our article (link will be later).
 ## Installation
 To use the method's code, you must install following Python libraries:
-'''
+```
 pip install ruptures
 pip install stumpy
 pip install scipy
@@ -14,7 +14,7 @@ pip install yfinance
 pip install pyts
 pip install statsmodels
 pip install fbprophet
-'''
+```
 
 
 ## Method
