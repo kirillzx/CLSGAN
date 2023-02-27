@@ -26,9 +26,15 @@ We also proposed the modification of existing GAN architectures, adding Supervis
 
 ## Experiments
 For the experiments we have used three open access datasets which describes stock prices. All data available in folder *Data* and even more [here](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs).
+For the quality assessment we have used distribution statistics (skewness, kurtosis), sum of absolute squared values of spectral density, Jensen-Schannon divergence, two-sample Kolmogorov-Smirnov test statistic, local extrema, autocorrelation and machine learning metrics (MSE on forecasting by time series cross-validation).
 
+![Table](https://github.com/kirillzx/CLSGAN/blob/main/images/table.png)
 
-![This is an image](https://github.com/kirillzx/CLSGAN/blob/main/images/Local_Extr_fisi.png)
+![Autocorr](https://github.com/kirillzx/CLSGAN/blob/main/images/autocorr.png)
+
+![LocalExtrema](https://github.com/kirillzx/CLSGAN/blob/main/images/local_extrema.png)
+
+![Distr](https://github.com/kirillzx/CLSGAN/blob/main/images/distributions.png)
 
 
 ## Hyperparameters
