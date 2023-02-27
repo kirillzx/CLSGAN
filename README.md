@@ -24,7 +24,9 @@ General pipeline of our method is presented below. For a detail description see 
 We also proposed the modification of existing GAN architectures, adding Supervisor and second Discriminator.
 ![CLSGAN](https://github.com/kirillzx/CLSGAN/blob/main/images/CLS-GAN_Pipeline-1.png)
 
+<p align="center">
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/CLS-GAN_Pipeline-1.png"  width="60%" height="30%">
+</p>
 
 ## Experiments
 For the experiments we have used three open access datasets which describes stock prices. All data available in folder *Data* and even more [here](https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-stocks-etfs).
