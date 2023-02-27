@@ -40,7 +40,7 @@ It can be seen from the autocorrelation plots that our approach gives a better a
 
 Obtained Q–Q plots of the extremum points in synthetic and the corresponding initial time series:
 <p align="center">
-<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/local_extrema.png"  width="60%" height="30%">
+<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/local_extrema.png"  width="60%">
 </p>
 
 On the figure below presented distributions: the original one and the distribution of revenues in daily (differentiated time series) and monthly (differentiated with time lag of 20 days time series) scales.
