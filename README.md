@@ -1,9 +1,9 @@
 # Synthetic financial time series generation with regime clustering
 ### Authors: Kirill Zakharov, Elizaveta Stavinova
-
 Official realisation by our article (link will be later).
+
 ## Installation
-To use the method's code, you must install following Python libraries:
+To use the method, you must install following Python libraries:
 ```
 pip install ruptures
 pip install stumpy
