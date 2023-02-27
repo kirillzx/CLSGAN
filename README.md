@@ -49,7 +49,7 @@ On the figure below presented distributions: the original one and the distributi
 </p>
 
 ## Hyperparameters
-For training procedure you can use following hyperparameters.
+For training procedure you can use the following hyperparameters.
 <p align="center">
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/hypers.png"  width="60%" height="30%">
 </p>
