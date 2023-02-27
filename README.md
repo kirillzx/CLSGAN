@@ -32,31 +32,4 @@ For the experiments we have used three open access datasets which describes stoc
 
 
 ## Hyperparameters
-
-$$
-\usepackage{booktabs}
-\vspace{-5mm}
-\begingroup
-\setlength{\tabcolsep}{4 pt}
-\renewcommand{\arraystretch}{1} 
-\begin{table}[h!]
-\caption{Hyperparameters for CLGAN and CLSGAN}\label{tab: hypers}
-\centering
-\begin{tabular}{rcc}
-    \toprule
-    \textbf{Hyperparameters} & \textbf{CLGAN} & \textbf{CLSGAN}\\
-    \midrule
-    $M$&23&20\\
-    initial learning rate & 0.002 & 0.002 (and 0.02 for Supervisor)\\
-    learning rate scheduler MultiStep & 0.1 after 8 epochs & 0.1 after 10 epochs\\
-    generator training & every 5 iteration & every 5 iteration\\
-    supervisor training & -- & every 5 iteration\\
-    batch size & 80 & 80\\
-    sequence length & 127 & 127\\
-    number of clusters & 3 & 3\\
-    clip value for discriminator & 0.01 & 0.01\\
-    \bottomrule
-\end{tabular}
-\end{table}
-\endgroup
-$$
+![Hypers](https://github.com/kirillzx/CLSGAN/blob/main/images/hypers.png)
