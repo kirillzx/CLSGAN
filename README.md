@@ -32,4 +32,4 @@ For the experiments we have used three open access datasets which describes stoc
 
 
 ## Hyperparameters
-![Hypers](https://github.com/kirillzx/CLSGAN/blob/main/images/hypers.png)
+![Hypers](https://github.com/kirillzx/CLSGAN/blob/main/images/hypers.png) 
