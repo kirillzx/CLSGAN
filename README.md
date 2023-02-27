@@ -3,9 +3,9 @@
 
 Official realisation by our article (link will be later).
 
-![This is an image](https://github.com/kirillzx/CLSGAN/blob/main/images/pipeline_V3.pdf)
+![This is an image](https://github.com/kirillzx/CLSGAN/blob/main/images/Local_Extr_fisi.png)
 
-<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/pipeline_V3.pdf" width=250 height=250/>
+<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/Local_Extr_fisi.png" width=250 height=250/>
 
 ## Method
 
