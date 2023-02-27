@@ -33,7 +33,7 @@ For the experiments we have used three open access datasets which describes stoc
 For the quality assessment we have used distribution statistics (skewness, kurtosis), sum of absolute squared values of spectral density, Jensen-Schannon divergence, two-sample Kolmogorov-Smirnov test statistic, local extrema, autocorrelation and machine learning metrics (MSE on forecasting by time series cross-validation).
 
 ![Table](https://github.com/kirillzx/CLSGAN/blob/main/images/table.png)
-<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/table.png"  width="60%" height="30%" align="center">
+<img src="https://github.com/kirillzx/CLSGAN/blob/main/images/table.png"  width="60%" height="30%" alignment="center">
 
 ![Autocorr](https://github.com/kirillzx/CLSGAN/blob/main/images/autocorr.png)
 
