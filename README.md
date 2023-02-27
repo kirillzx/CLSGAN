@@ -29,6 +29,10 @@ For the experiments we have used three open access datasets which describes stoc
 
 
 ![This is an image](https://github.com/kirillzx/CLSGAN/blob/main/images/Local_Extr_fisi.png)
+
+
+## Hyperparameters
+
 $$
 \vspace{-5mm}
 \begingroup
