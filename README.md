@@ -33,14 +33,17 @@ For the quality assessment we have used distribution statistics (skewness, kurto
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/table.png"  width="60%" height="30%">
 </p>
 
+It can be seen from the autocorrelation plots that our approach gives a better approximation during the lags.
 <p align="center">
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/autocorr.png"  width="60%" height="30%">
 </p>
 
+Obtained Q–Q plots of the extremum points in synthetic and the corresponding initial time series:
 <p align="center">
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/local_extrema.png"  width="60%" height="30%">
 </p>
 
+On the figure below presented distributions: the original one and the distribution of revenues in daily (differentiated time series) and monthly (differentiated with time lag of 20 days time series) scales.
 <p align="center">
 <img src="https://github.com/kirillzx/CLSGAN/blob/main/images/distributions.png"  width="60%" height="30%">
 </p>
