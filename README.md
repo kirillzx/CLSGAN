@@ -1,5 +1,7 @@
 # Synthetic financial time series generation with regime clustering
 ### Authors: Kirill Zakharov, Elizaveta Stavinova
+Zakharov, K., Stavinova, E. and Boukhanovsky, A., 2023. Synthetic Financial Time Series Generation with Regime Clustering. Journal of Advances in Information Technology, 14(6).
+
 @article{zakharov2023synthetic,
   title={Synthetic Financial Time Series Generation with Regime Clustering},
   author={Zakharov, Kirill and Stavinova, Elizaveta and Boukhanovsky, Alexander},
